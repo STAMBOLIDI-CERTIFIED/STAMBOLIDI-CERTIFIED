@@ -5,3 +5,6 @@
 - Языки: HTML5, CSS3, JavaScript (ES6+)
 - Инструменты: Git, GitHub, VS Code
 - Дизайн: Figma
+
+## Завершенные проекты:
+AIHUB - https://stambolidi-certified.github.io/AIHUB/
