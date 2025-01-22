@@ -6,5 +6,5 @@
 - Инструменты: Git, GitHub, VS Code
 - Дизайн: Figma
 
-## Завершенные проекты:
-AIHUB - [> Перейти на мой сайт >](https://github.com/STAMBOLIDI-CERTIFIED/AIHUB.git)
+## Завершенные проекты (Верстка макетов):
+AIHUB: Платформа для AI-Изображений - [> Репозиторий доступен здесь >](https://github.com/STAMBOLIDI-CERTIFIED/AIHUB.git)
