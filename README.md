@@ -7,4 +7,4 @@
 - Дизайн: Figma
 
 ## Завершенные проекты:
-AIHUB - [> Перейти на мой сайт >](https://stambolidi-certified.github.io/AIHUB/)
+AIHUB - [> Перейти на мой сайт >](https://github.com/STAMBOLIDI-CERTIFIED/AIHUB.git)
