@@ -1,5 +1,5 @@
 ## `[ID: STAMBOLIDI IVAN]`  Starting initialization…
-! На данный момент занимаюсь сайтами типа "landing"
+I am currently developing landing pages.
 
 Стек базовых знаний:
 - Языки: HTML5, CSS3, JavaScript (ES6+)
