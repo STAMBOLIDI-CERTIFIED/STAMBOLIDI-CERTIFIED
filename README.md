@@ -1,4 +1,5 @@
 ## Frontend Developer && UI/UX Engineer -- STAMBOLIDI IVAN
+@STAMBOLIDI_CERTIFIED <br>
 I am currently developing landing pages.
 
 Fundamental Technology Stack:
