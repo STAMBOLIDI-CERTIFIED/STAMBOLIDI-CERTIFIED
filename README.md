@@ -6,5 +6,8 @@ Fundamental Technology Stack:
 - Tools: Git, GitHub, VS Code 
 - Design Software: Figma
 
-## Завершенные проекты (Верстка макетов):
+## Finished Projects (Верстка макетов):
 AIHUB: Платформа для AI-Изображений - [> Репозиторий доступен здесь >](https://github.com/STAMBOLIDI-CERTIFIED/AIHUB.git)
+
+## Works in Progress (Верстка макетов):
+Kikin-WebPage - [> Репозиторий доступен здесь >](https://github.com/STAMBOLIDI-CERTIFIED/Kikin-WebPage.git)
