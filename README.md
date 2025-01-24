@@ -1,5 +1,5 @@
 ## Frontend Developer && UI/UX Engineer -- STAMBOLIDI IVAN
-@STAMBOLIDI_CERTIFIED [![Telegram](https://img.shields.io/badge/Telegram-333?style=flat-square&logo=telegram&logoColor=white&link=YOUR_TELEGRAM_LINK)]() [![VK](https://img.shields.io/badge/VK-333?style=flat-square&logo=vk&logoColor=white&link=YOUR_VK_LINK)](https://vk.com/stamly_official) [![Mail](https://img.shields.io/badge/Mail-333?style=flat-square&logo=mail.ru&logoColor=white&link=mailto:YOUR_EMAIL_ADDRESS)](mailto:sia.ocean.control@internet.ru)
+@STAMBOLIDI_CERTIFIED [![Telegram](https://t.me/+KOj8DuVeogQwMTAy)]] [![VK](https://img.shields.io/badge/VK-333?style=flat-square&logo=vk&logoColor=white&link=YOUR_VK_LINK)](https://vk.com/stamly_official) [![Mail](https://img.shields.io/badge/Mail-333?style=flat-square&logo=mail.ru&logoColor=white&link=mailto:YOUR_EMAIL_ADDRESS)](mailto:sia.ocean.control@internet.ru)
 
 Мой GitHub-профиль — это не просто портфолио, это витрина моих идей и экспериментов в мире frontend-разработки. Здесь вы увидите как готовые решения, так и проекты, находящиеся в стадии активного создания.
 
