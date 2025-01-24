@@ -1,5 +1,5 @@
 ## Frontend Developer && UI/UX Engineer -- STAMBOLIDI IVAN
-@STAMBOLIDI_CERTIFIED [![Telegram](https://img.shields.io/badge/Telegram-333?style=flat-square&logo=telegram&logoColor=white&link=YOUR_TELEGRAM_LINK)](https://t.me/+KOj8DuVeogQwMTAy) [![VK](https://img.shields.io/badge/VK-333?style=flat-square&logo=vk&logoColor=white&link=YOUR_VK_LINK)](https://vk.com/stamly_official) [![Mail](https://img.shields.io/badge/Mail-333?style=flat-square&logo=mail.ru&logoColor=white&link=mailto:YOUR_EMAIL_ADDRESS)](mailto:sia.ocean.control@internet.ru)
+[![Telegram](https://img.shields.io/badge/Telegram-333?style=flat-square&logo=telegram&logoColor=white&link=YOUR_TELEGRAM_LINK)](https://t.me/+KOj8DuVeogQwMTAy) [![VK](https://img.shields.io/badge/VK-333?style=flat-square&logo=vk&logoColor=white&link=YOUR_VK_LINK)](https://vk.com/stamly_official) [![Mail](https://img.shields.io/badge/Mail-333?style=flat-square&logo=mail.ru&logoColor=white&link=mailto:YOUR_EMAIL_ADDRESS)](mailto:sia.ocean.control@internet.ru)
 
 🐥На моем GitHub-профиле представлено портфолио моих работ в области frontend-разработки. Вы можете ознакомиться как с завершенными проектами, так и с текущими разработками.
 Если у вас возникли какие-либо вопросы или предложения по поводу сотрудничества в области веб-разработки, все контакты для связи вы найдете на этой странице.
@@ -30,3 +30,4 @@ AIHUB: Платформа для AI-Изображений - [> Репозито
 
 ## Works in Progress ([![Верстка макетов](https://img.shields.io/badge/-%D0%92%D0%B5%D1%80%D1%81%D1%82%D0%BA%D0%B0%20%D0%BC%D0%B0%D0%BA%D0%B5%D1%82%D0%BE%D0%B2-%23FFA500)](https://shields.io/)):
 Kikin-WebPage: Комплекс природы / бизнеса - [> Репозиторий доступен здесь >](https://github.com/STAMBOLIDI-CERTIFIED/Kikin-WebPage.git)
+                                                                                                                                                                                                                              @STAMBOLIDI_CERTIFIED
