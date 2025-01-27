@@ -19,13 +19,13 @@ HR-менеджерам и руководителям проектов, нужд
 
 **Инструменты:**
 
-  [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/)
-  [![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=flat-square&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
+  [![Git](https://img.shields.io/badge/Git-9400D3?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
+  [![GitHub](https://img.shields.io/badge/GitHub-9400D3?style=flat-square&logo=github&logoColor=white)](https://github.com/)
+  [![VS Code](https://img.shields.io/badge/VS%20Code-9400D3?style=flat-square&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
 
 **Дизайн:**
 
-  [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)](https://www.figma.com/)
+  [![Figma](https://img.shields.io/badge/Figma-9400D3?style=flat-square&logo=figma&logoColor=white)](https://www.figma.com/)
 
 ## Finished Projects ([![Верстка макетов](https://img.shields.io/badge/-%D0%92%D0%B5%D1%80%D1%81%D1%82%D0%BA%D0%B0%20%D0%BC%D0%B0%D0%BA%D0%B5%D1%82%D0%BE%D0%B2-%23FFA500)](https://shields.io/)):
 AIHUB: Платформа для AI-Изображений - [> Репозиторий доступен здесь >](https://github.com/STAMBOLIDI-CERTIFIED/AIHUB.git)
