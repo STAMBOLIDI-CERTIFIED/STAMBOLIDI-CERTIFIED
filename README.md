@@ -1,5 +1,7 @@
 ## Frontend Developer && UI/UX Engineer -- STAMBOLIDI IVAN
-[![Telegram](https://img.shields.io/badge/Telegram-333?style=flat-square&logo=telegram&logoColor=white&link=YOUR_TELEGRAM_LINK)](https://t.me/+KOj8DuVeogQwMTAy) [![VK](https://img.shields.io/badge/VK-333?style=flat-square&logo=vk&logoColor=white&link=YOUR_VK_LINK)](https://vk.com/stamly_official) [![Mail](https://img.shields.io/badge/Mail-333?style=flat-square&logo=mail.ru&logoColor=white&link=mailto:YOUR_EMAIL_ADDRESS)](mailto:sia.ocean.control@internet.ru)
+[![Telegram](https://img.shields.io/badge/Telegram-9400D3?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/+KOj8DuVeogQwMTAy)](https://t.me/+KOj8DuVeogQwMTAy)
+[![VK](https://img.shields.io/badge/VK-9400D3?style=flat-square&logo=vk&logoColor=white&link=https://vk.com/stamly_official)](https://vk.com/stamly_official)
+[![Mail](https://img.shields.io/badge/Mail-9400D3?style=flat-square&logo=mail.ru&logoColor=white&link=mailto:sia.ocean.control@internet.ru)](mailto:sia.ocean.control@internet.ru)
 
 🐥На моем GitHub-профиле представлено портфолио моих работ в области frontend-разработки. Вы можете ознакомиться как с завершенными проектами, так и с текущими разработками.
 Если у вас возникли какие-либо вопросы или предложения по поводу сотрудничества в области веб-разработки, все контакты для связи вы найдете на этой странице.
