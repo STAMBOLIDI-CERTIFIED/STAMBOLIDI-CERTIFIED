@@ -15,7 +15,7 @@ HR-менеджерам и руководителям проектов, нужд
 
   [![HTML5](https://img.shields.io/badge/HTML5-9400D3?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
   [![CSS3](https://img.shields.io/badge/CSS3-9400D3?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-  [![JavaScript](https://img.shields.io/badge/JavaScript-9400D3?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+  [![JavaScript](https://img.shields.io/badge/JavaScript-9400D3?style=flat-square&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 **Инструменты:**
 
