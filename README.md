@@ -1,4 +1,4 @@
-## Frontend Developer && UI/UX Engineer -- STAMBOLIDI IVAN
+## Frontend Developer && UI/UX Engineer —— STAMBOLIDI IVAN
 [![Telegram](https://img.shields.io/badge/Telegram-white?style=flat-square&logo=telegram&logoColor=9400D3&link=https://t.me/+KOj8DuVeogQwMTAy)](https://t.me/+KOj8DuVeogQwMTAy)
 [![VK](https://img.shields.io/badge/VK-white?style=flat-square&logo=vk&logoColor=9400D3&link=https://vk.com/stamly_official)](https://vk.com/stamly_official)
 [![Mail](https://img.shields.io/badge/Mail-white?style=flat-square&logo=mail.ru&logoColor=9400D3&link=mailto:sia.ocean.control@internet.ru)](mailto:sia.ocean.control@internet.ru)
