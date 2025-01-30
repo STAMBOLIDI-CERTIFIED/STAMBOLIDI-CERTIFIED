@@ -14,6 +14,7 @@ HR-менеджерам и руководителям проектов, нужд
 
 ### 💾 Skills & Technologies: <br>
 Basic @ WebMark<br>
+<br>
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=%23E34F26&labelColor=000000)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=%231572B6&labelColor=000000)
 ![JS](https://img.shields.io/badge/-JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=000000)
@@ -22,6 +23,7 @@ Basic @ WebMark<br>
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=%23F24E1E&labelColor=000000)
 
 Learn @ Web Technologies<br>
+<br>
 ![Tailwind](https://img.shields.io/badge/-Tailwind-61DAFB?style=for-the-badge&logo=tailwind-css&logoColor=%2361DAFB&labelColor=000000)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=%2361DAFB&labelColor=000000)
 
