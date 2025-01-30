@@ -1,7 +1,8 @@
 ## Frontend Developer && UI/UX Engineer —— STAMBOLIDI IVAN
-[![Telegram](https://img.shields.io/badge/Telegram-white?style=flat-square&logo=telegram&logoColor=9400D3&link=https://t.me/+KOj8DuVeogQwMTAy)](https://t.me/+KOj8DuVeogQwMTAy)
-[![VK](https://img.shields.io/badge/VK-white?style=flat-square&logo=vk&logoColor=9400D3&link=https://vk.com/stamly_official)](https://vk.com/stamly_official)
-[![Mail](https://img.shields.io/badge/Mail-white?style=flat-square&logo=mail.ru&logoColor=9400D3&link=mailto:sia.ocean.control@internet.ru)](mailto:sia.ocean.control@internet.ru)
+[![Telegram](https://img.shields.io/badge/-Telegram-333333?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+KOj8DuVeogQwMTAy)
+[![VK](https://img.shields.io/badge/-VK-333333?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/stamly_official)
+[![Email](https://img.shields.io/badge/-Email-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sia.ocean.control@internet.ru)
+![.RU](https://img.shields.io/badge/-.RU-EA4335?style=for-the-badge&&logoColor=white)
 
 🐥На моем GitHub-профиле представлено портфолио моих работ в области frontend-разработки. Вы можете ознакомиться как с завершенными проектами, так и с текущими разработками.
 Если у вас возникли какие-либо вопросы или предложения по поводу сотрудничества в области веб-разработки, все контакты для связи вы найдете на этой странице.
@@ -9,23 +10,19 @@
 HR-менеджерам и руководителям проектов, нуждающимся в усилении команды frontend-специалистом, также предлагаю рассмотреть мою кандидатуру. С удовольствием обсужу перспективы нашего совместного развития.
 Буду рад вашему отклику и надеюсь на плодотворное сотрудничество!
 
-**💻Technology Stack:** <br>
+<hr>
 
-**Языки:**
+### 💾 Skills & Technologies: <br>
+Basic @ WebMark<br>
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-  [![HTML5](https://img.shields.io/badge/HTML5-9400D3?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-  [![CSS3](https://img.shields.io/badge/CSS3-9400D3?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-  [![JavaScript](https://img.shields.io/badge/JavaScript-9400D3?style=flat-square&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-
-**Инструменты:**
-
-  [![Git](https://img.shields.io/badge/Git-9400D3?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
-  [![GitHub](https://img.shields.io/badge/GitHub-9400D3?style=flat-square&logo=github&logoColor=white)](https://github.com/)
-  [![VS Code](https://img.shields.io/badge/VS%20Code-9400D3?style=flat-square&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
-
-**Дизайн:**
-
-  [![Figma](https://img.shields.io/badge/Figma-9400D3?style=flat-square&logo=figma&logoColor=white)](https://www.figma.com/)
+Learn @ Web Technologies<br>
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ## Finished Projects ([![Верстка макетов](https://img.shields.io/badge/-%D0%92%D0%B5%D1%80%D1%81%D1%82%D0%BA%D0%B0%20%D0%BC%D0%B0%D0%BA%D0%B5%D1%82%D0%BE%D0%B2-%23FFA500)](https://shields.io/)):
 -  AIHUB: Платформа для AI-Изображений - [> Репозиторий доступен здесь >](https://github.com/STAMBOLIDI-CERTIFIED/AIHUB.git)
@@ -33,4 +30,5 @@ HR-менеджерам и руководителям проектов, нужд
 ## Works in Progress ([![Верстка макетов](https://img.shields.io/badge/-%D0%92%D0%B5%D1%80%D1%81%D1%82%D0%BA%D0%B0%20%D0%BC%D0%B0%D0%BA%D0%B5%D1%82%D0%BE%D0%B2-%23FFA500)](https://shields.io/)):
 -  Kikin-WebPage: Комплекс природы / бизнеса - [> Репозиторий доступен здесь >](https://github.com/STAMBOLIDI-CERTIFIED/Kikin-WebPage.git)<br>
 <br>
+
 <p>@STAMBOLIDI_CERTIFIED</p>
