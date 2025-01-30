@@ -28,9 +28,9 @@ HR-менеджерам и руководителям проектов, нужд
   [![Figma](https://img.shields.io/badge/Figma-9400D3?style=flat-square&logo=figma&logoColor=white)](https://www.figma.com/)
 
 ## Finished Projects ([![Верстка макетов](https://img.shields.io/badge/-%D0%92%D0%B5%D1%80%D1%81%D1%82%D0%BA%D0%B0%20%D0%BC%D0%B0%D0%BA%D0%B5%D1%82%D0%BE%D0%B2-%23FFA500)](https://shields.io/)):
-AIHUB: Платформа для AI-Изображений - [> Репозиторий доступен здесь >](https://github.com/STAMBOLIDI-CERTIFIED/AIHUB.git)
+-  AIHUB: Платформа для AI-Изображений - [> Репозиторий доступен здесь >](https://github.com/STAMBOLIDI-CERTIFIED/AIHUB.git)
 
 ## Works in Progress ([![Верстка макетов](https://img.shields.io/badge/-%D0%92%D0%B5%D1%80%D1%81%D1%82%D0%BA%D0%B0%20%D0%BC%D0%B0%D0%BA%D0%B5%D1%82%D0%BE%D0%B2-%23FFA500)](https://shields.io/)):
-Kikin-WebPage: Комплекс природы / бизнеса - [> Репозиторий доступен здесь >](https://github.com/STAMBOLIDI-CERTIFIED/Kikin-WebPage.git)<br>
+-  Kikin-WebPage: Комплекс природы / бизнеса - [> Репозиторий доступен здесь >](https://github.com/STAMBOLIDI-CERTIFIED/Kikin-WebPage.git)<br>
 <br>
 <p>@STAMBOLIDI_CERTIFIED</p>
