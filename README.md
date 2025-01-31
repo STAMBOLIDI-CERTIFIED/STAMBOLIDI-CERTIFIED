@@ -15,6 +15,7 @@ HR-менеджерам и руководителям проектов, нужд
 Доп.ресурсы
 - https://stepik.org/users/1013106283 ( Stepik )
 
+<hr>
 
 ### 💾 Skills & Technologies: <br>
 Basic @ WebMark<br>
