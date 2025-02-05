@@ -12,11 +12,6 @@ HR-менеджерам и руководителям проектов, нужд
 
 <hr>
 
-Доп.ресурсы
-- https://stepik.org/users/1013106283 ( Stepik )
-
-<hr>
-
 ### 💾 Skills & Technologies: <br>
 Basic @ WebMark<br>
 <br>
@@ -31,6 +26,8 @@ Learn @ Web Technologies<br>
 <br>
 ![Tailwind](https://img.shields.io/badge/-Tailwind-61DAFB?style=for-the-badge&logo=tailwind-css&logoColor=%2361DAFB&labelColor=000000)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=%2361DAFB&labelColor=000000)
+
+<hr>
 
 ## Finished Projects ([![Верстка макетов](https://img.shields.io/badge/-%D0%92%D0%B5%D1%80%D1%81%D1%82%D0%BA%D0%B0%20%D0%BC%D0%B0%D0%BA%D0%B5%D1%82%D0%BE%D0%B2-%23FFA500)](https://shields.io/)):
 -  AIHUB: Платформа для AI-Изображений - [> Репозиторий доступен здесь >](https://github.com/STAMBOLIDI-CERTIFIED/AIHUB.git)
