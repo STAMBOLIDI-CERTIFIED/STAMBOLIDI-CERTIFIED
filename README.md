@@ -13,7 +13,7 @@ HR-менеджерам и руководителям проектов, нужд
 <hr>
 
 ### 💾 Skills & Technologies: <br>
-Basic @ WebMark<br>
+**Basic & WebMark**<br>
 <br>
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=%23E34F26&labelColor=000000)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=%231572B6&labelColor=000000)
@@ -21,8 +21,9 @@ Basic @ WebMark<br>
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=%23F05032&labelColor=000000)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=%23F24E1E&labelColor=000000)
+![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white&labelColor=000000)
 
-Learn @ Web Technologies<br>
+**Learn & Web Technologies**<br>
 <br>
 ![Tailwind](https://img.shields.io/badge/-Tailwind-61DAFB?style=for-the-badge&logo=tailwind-css&logoColor=%2361DAFB&labelColor=000000)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=%2361DAFB&labelColor=000000)
