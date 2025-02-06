@@ -34,6 +34,7 @@ HR-менеджерам и руководителям проектов, нужд
 
 ## Works in Progress ([![Верстка макетов](https://img.shields.io/badge/-%D0%92%D0%B5%D1%80%D1%81%D1%82%D0%BA%D0%B0%20%D0%BC%D0%B0%D0%BA%D0%B5%D1%82%D0%BE%D0%B2-%23FFA500)](https://shields.io/)):
 -  Kikin-WebPage: Комплекс природы / бизнеса - [> Репозиторий доступен здесь >](https://github.com/STAMBOLIDI-CERTIFIED/Kikin-WebPage.git)<br>
+-  Adaptive Navigation Bar: Сборник тестов навигационных панелей - [> Репозиторий доступен здесь >](https://github.com/STAMBOLIDI-CERTIFIED/Adaptive-Navigation-Bar.git)<br>
 <br>
 
 <p>@STAMBOLIDI_CERTIFIED</p>
