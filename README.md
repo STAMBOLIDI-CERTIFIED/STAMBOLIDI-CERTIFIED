@@ -1,8 +1,4 @@
 # Frontend Developer && UI/UX Engineer —— STAMBOLIDI IVAN
-[![Telegram](https://img.shields.io/badge/-Telegram-333333?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+KOj8DuVeogQwMTAy)
-[![VK](https://img.shields.io/badge/-VK-333333?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/stamly_official)
-[![Email](https://img.shields.io/badge/-Email-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sia.ocean.control@internet.ru)
-![.RU](https://img.shields.io/badge/-.RU-EA4335?style=for-the-badge&&logoColor=white)
 
 ## ✨ Frontend Developer | Portfolio
 
@@ -20,6 +16,13 @@
 ### 💼 Для HR-менеджеров и руководителей проектов:
 
 Ищете усиление команды frontend-специалистом? Предлагаю рассмотреть мою кандидатуру! С удовольствием обсужу перспективы нашего совместного развития и вклад, который я могу внести в ваш проект.
+
+### ✉️ Контакты:
+
+[![Telegram](https://img.shields.io/badge/-Telegram-333333?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+KOj8DuVeogQwMTAy)
+[![VK](https://img.shields.io/badge/-VK-333333?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/stamly_official)
+[![Email](https://img.shields.io/badge/-Email-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sia.ocean.control@internet.ru)
+![.RU](https://img.shields.io/badge/-.RU-EA4335?style=for-the-badge&&logoColor=white)
 
 ### 🙏 Буду рад вашему отклику и надеюсь на плодотворное сотрудничество!
 
