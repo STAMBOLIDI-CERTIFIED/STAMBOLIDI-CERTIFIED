@@ -1,4 +1,4 @@
-# Frontend Developer && UI/UX Engineer —— STAMBOLIDI IVAN
+# Frontend Developer && UI/UX Engineer
 ![Group 1](https://github.com/user-attachments/assets/7bb6dd9f-a1e3-4155-8194-22d63eee817d)
 
 
