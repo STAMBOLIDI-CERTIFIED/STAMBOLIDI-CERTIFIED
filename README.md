@@ -1,5 +1,6 @@
 # Frontend Developer && UI/UX Engineer
-![Group 1](https://github.com/user-attachments/assets/7bb6dd9f-a1e3-4155-8194-22d63eee817d)
+![Group 2](https://github.com/user-attachments/assets/c39952e1-9015-4244-907a-3b447a1b1b46)
+
 
 
 ## ✨ Frontend Developer | Portfolio
