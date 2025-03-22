@@ -34,18 +34,12 @@
 ### 💾 Skills & Technologies: <br>
 **Basic & WebMark**<br>
 <br>
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=%23E34F26&labelColor=000000)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=%231572B6&labelColor=000000)
-![JS](https://img.shields.io/badge/-JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=000000)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=%23F05032&labelColor=000000)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=%23F24E1E&labelColor=000000)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=000000)
-![Tailwind](https://img.shields.io/badge/-Tailwind-61DAFB?style=for-the-badge&logo=tailwind-css&logoColor=%2361DAFB&labelColor=000000)
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,figma,php,tailwind" />
 
 **Learn & Web Technologies**<br>
 <br>
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=%2361DAFB&labelColor=000000)
+<img src="https://skillicons.dev/icons?i=react" />
+
 
 <hr>
 
