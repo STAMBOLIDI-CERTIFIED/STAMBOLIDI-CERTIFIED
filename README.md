@@ -46,6 +46,7 @@
 
 ## Finished Projects ([![Верстка макетов](https://img.shields.io/badge/-%D0%92%D0%B5%D1%80%D1%81%D1%82%D0%BA%D0%B0%20%D0%BC%D0%B0%D0%BA%D0%B5%D1%82%D0%BE%D0%B2-%23FFA500)](https://shields.io/)):
 -  AIHUB: Платформа для AI-Изображений - [> Репозиторий доступен здесь >](https://github.com/STAMBOLIDI-CERTIFIED/AIHUB.git)
+-  Music Studio Layout - [> Репозиторий доступен здесь >](https://github.com/STAMBOLIDI-CERTIFIED/Music-Studio/tree/main)
 
 ## Works in Progress ([![Верстка макетов](https://img.shields.io/badge/-%D0%92%D0%B5%D1%80%D1%81%D1%82%D0%BA%D0%B0%20%D0%BC%D0%B0%D0%BA%D0%B5%D1%82%D0%BE%D0%B2-%23FFA500)](https://shields.io/)):
 -  AutoTemka: Сервис по продаже автомобильных шин/дисков - [> Репозиторий доступен здесь >](https://github.com/STAMBOLIDI-CERTIFIED/AUTO_TEMKA/tree/main)<br>
