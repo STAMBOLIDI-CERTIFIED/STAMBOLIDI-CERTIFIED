@@ -1,5 +1,6 @@
 # Frontend Developer && UI/UX Engineer
-![Group 2](https://github.com/user-attachments/assets/c39952e1-9015-4244-907a-3b447a1b1b46)
+![Group 1 (3)](https://github.com/user-attachments/assets/95cc05ca-99e1-47aa-954f-1d500082c8f8)
+
 
 
 
